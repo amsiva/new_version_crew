@@ -1,0 +1,17 @@
+.env
+__pycache__/
+.DS_Store
+report.md
+.env
+env
+.venv*/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.gradio/
+*.db
+*.sqlite
+*.sqlite3
+chroma_db*/
+node_modules/
